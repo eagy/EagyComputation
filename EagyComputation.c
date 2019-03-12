@@ -1,10 +1,11 @@
 /**
-* (basic description of the program or class)
+* This program calculates the total volume of a user-specified number of 
+* cylinders. 
 *
-* Completion time: (estimation of hours spent on this program)
+* Completion time: 0.25 Hours
 *
-* @author (your name), (anyone else, e.g., Acuna, whose code you used)
-* @version (a version number or a date)
+* @author Daniel Eagy, Acuna
+* @version 3/12/2019
 */
 
 ////////////////////////////////////////////////////////////////////////////////
